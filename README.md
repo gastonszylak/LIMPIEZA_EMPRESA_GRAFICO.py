@@ -49,4 +49,4 @@ Se implementó un **Diagrama de Caja** (*Boxplot*) para evaluar la dispersión d
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/gastonszylak/tu-repositorio.git](https://github.com/gastonszylak/tu-repositorio.git)
+   git clone https://github.com/gastonszylak/sales-data-wrangling-eda.git
